@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: yqz286 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP98E3.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/yqz286.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\数字图像处理实验2017\12.21\yqz286\Bmp.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP98E3.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP98E4.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/yqz286.pdb" /debug /machine:I386 /out:"Debug/yqz286.exe" /pdbtype:sept 
+".\Debug\Bmp.obj"
+".\Debug\DlgHistogram.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\yqz286.obj"
+".\Debug\yqz286Doc.obj"
+".\Debug\yqz286View.obj"
+".\Debug\yqz286.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP98E4.tmp"
+<h3>Output Window</h3>
+Compiling...
+Bmp.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+yqz286.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
